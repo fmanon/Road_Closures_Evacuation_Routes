@@ -86,23 +86,3 @@ Addressing our Problem Statement, we have successfully built a Minimum Viable Pr
 We do make note of additional steps to take to improve our product.  Firstly, we can continue to train our spaCy library in order to obtain more and more accurate location information and to add new details such as capturing if a stretch of road was closed.  Additionally, we can work with local experts to better identify local naming conventions in our given area to improve our spaCy model.  As far as improving mapping, we can continue to experiment with mapping libraries in order to map to specific intersections and highway exits.  Finally, we would like to work to improve automation between our tabular data and our mapping function so they can flow and shift together.
 
 ----
-
-#### GitHub Repository
-README.md
-./code
-    - 01 Twitter_Scraping
-    - 02 
-    - 03 Twitter_Cleaning
-    - 04 Location_Extraction
-    - 05 Coordinate_Acquistion
-    - 06 Folium_Mapping
-./datasets
-./demo_videos
-    - tabular video
-    - map video
-./images
-    - tabular image
-    - map image
-./presentation
-    - presentation.pdf
-    - presentation.ppt??
